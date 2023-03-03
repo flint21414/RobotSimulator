@@ -119,27 +119,26 @@ namespace RobotSimulator.Service
 
             if (!string.IsNullOrWhiteSpace(robot.Facing))
             {
-
-                if (enteredCommand.Contains(Constant.LEFT))
+                if (enteredCommand == Constant.LEFT)
                 {
                     Left(robot);
                 }
 
-                if (enteredCommand.Contains(Constant.RIGHT))
+                if (enteredCommand == Constant.RIGHT)
                 {
                     Right(robot);
                 }
-                if (enteredCommand.Contains(Constant.REPORT))
+                if (enteredCommand == Constant.REPORT)
                 {
                     Report(robot);
                 }
 
-                if (enteredCommand.Contains(Constant.MOVE))
+                if (enteredCommand == Constant.MOVE)
                 {
                     Move(robot);
                 }
 
-                if (enteredCommand.Contains(Constant.STOP))
+                if (enteredCommand == Constant.STOP)
                 {
                     Stop();
                 }
@@ -173,6 +172,7 @@ namespace RobotSimulator.Service
                     robot.Facing = Constant.NORTH;
                     break;
             }
+
             Console.WriteLine("Robot is now facing {0}, Please enter new command", robot.Facing);
             robot.EnteredCommand = Console.ReadLine();
             ProcessCommand(robot);
@@ -195,6 +195,7 @@ namespace RobotSimulator.Service
                     robot.Facing = Constant.NORTH;
                     break;
             }
+
             Console.WriteLine("Robot is now facing {0}, Please enter new command", robot.Facing);
             robot.EnteredCommand = Console.ReadLine();
             ProcessCommand(robot);
@@ -226,6 +227,7 @@ namespace RobotSimulator.Service
                 robot.Y = originalYCoordinate;
                 Invalid(robot);
             }
+
             Console.WriteLine("Robot moved, Please enter new command");
             robot.EnteredCommand = Console.ReadLine();
             ProcessCommand(robot);

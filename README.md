@@ -1,5 +1,5 @@
 # RobotSimulator
-Robot Simulator Flexisource Exam
+Robot Simulator Application
 
 ## How to setup the application
 
