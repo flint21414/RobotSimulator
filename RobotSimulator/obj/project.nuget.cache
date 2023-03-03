@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZaX1oqhihYDBqAVrdicbKG9PeaySoSj0wI6GZHTETRcdBtwYvpZpo//MNd6eO0dwQMTzATvzUZKUFLfX8H1nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlo\\OneDrive\\Documents\\GitHub\\RobotSimulator\\RobotSimulator\\RobotSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

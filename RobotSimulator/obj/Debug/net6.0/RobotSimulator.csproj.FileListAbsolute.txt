@@ -1,0 +1,54 @@
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\RobotSimulator.exe
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\RobotSimulator.deps.json
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\RobotSimulator.runtimeconfig.json
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\RobotSimulator.pdb
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\RobotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\RobotSimulator.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.CopyComplete
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\refint\RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\RobotSimulator.pdb
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\RobotSimulator.genruntimeconfig.cache
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\ref\RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.exe
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.deps.json
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.runtimeconfig.json
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.pdb
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.CopyComplete
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\refint\RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.pdb
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.genruntimeconfig.cache
+C:\Users\Carlo\source\repos\RobotSimulator\RobotSimulator\obj\Debug\net6.0\ref\RobotSimulator.dll
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.exe
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.deps.json
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.runtimeconfig.json
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.dll
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\bin\Debug\net6.0\RobotSimulator.pdb
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.AssemblyReference.cache
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.AssemblyInfo.cs
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.csproj.CopyComplete
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.dll
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\refint\RobotSimulator.dll
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.pdb
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\RobotSimulator.genruntimeconfig.cache
+C:\Users\Carlo\OneDrive\Documents\GitHub\RobotSimulator\RobotSimulator\obj\Debug\net6.0\ref\RobotSimulator.dll

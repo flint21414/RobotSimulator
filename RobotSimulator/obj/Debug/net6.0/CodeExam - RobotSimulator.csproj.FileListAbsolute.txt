@@ -1,0 +1,18 @@
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\CodeExam - RobotSimulator.exe
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\CodeExam - RobotSimulator.deps.json
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\CodeExam - RobotSimulator.runtimeconfig.json
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\CodeExam - RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\CodeExam - RobotSimulator.pdb
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\CodeExam - RobotSimulator.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\CodeExam - RobotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\CodeExam - RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\CodeExam - RobotSimulator.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\CodeExam - RobotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\CodeExam - RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\refint\CodeExam - RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\CodeExam - RobotSimulator.pdb
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\CodeExam - RobotSimulator.genruntimeconfig.cache
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\ref\CodeExam - RobotSimulator.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carlo\source\repos\RobotSimulator\CodeExam - RobotSimulator\obj\Debug\net6.0\CodeExam - RobotSimulator.csproj.CopyComplete
